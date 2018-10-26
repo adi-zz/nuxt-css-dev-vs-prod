@@ -63,4 +63,8 @@ export default {
 .links {
   padding-top: 15px;
 }
+
+.VueToNuxtLogo {
+  background-color: blue;
+}
 </style>
